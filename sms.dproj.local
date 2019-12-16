@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/07 09:40:15.000.323,=D:\works\delphi\Unit1.pas</Transaction>
+    <Transaction>2019/12/07 09:40:40.000.173,D:\works\delphi\Unit1.pas=D:\works\delphi\sms\uMain.pas</Transaction>
+    <Transaction>2019/12/07 09:40:40.000.173,D:\works\delphi\Unit1.dfm=D:\works\delphi\sms\uMain.dfm</Transaction>
+    <Transaction>2019/12/07 09:40:47.000.548,D:\works\delphi\Project1.dproj=D:\works\delphi\sms\sms.dproj</Transaction>
+    <Transaction>2019/12/07 10:15:29.000.575,=D:\works\delphi\sms\uAuth.pas</Transaction>
+    <Transaction>2019/12/17 00:47:52.395,=D:\works\delphi\sms\Unit1.pas</Transaction>
+    <Transaction>2019/12/17 00:48:04.097,D:\works\delphi\sms\uFuncs.pas=D:\works\delphi\sms\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
