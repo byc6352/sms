@@ -1,7 +1,7 @@
 object fmain: Tfmain
   Left = 0
   Top = 0
-  Caption = #29454#35961#25509#30721#24179#21488'v2.0('#32852#31995'QQ'#65306'3123696367'#24494#20449#65306'byc6352)'
+  Caption = #29454#35961#25509#30721#24179#21488'v2.0('#32852#31995'QQ'#65306'2914454758'#24494#20449#65306'qwertyuiop-tutu)'
   ClientHeight = 799
   ClientWidth = 1072
   Color = clBtnFace
@@ -3138,7 +3138,6 @@ object fmain: Tfmain
     Height = 31
     Align = alTop
     TabOrder = 0
-    ExplicitTop = -6
     object Label1: TLabel
       Left = 8
       Top = 9
@@ -3454,6 +3453,10 @@ object fmain: Tfmain
     object tsInfo: TTabSheet
       Caption = #20449#24687
       ImageIndex = 1
+      ExplicitLeft = 0
+      ExplicitTop = 0
+      ExplicitWidth = 0
+      ExplicitHeight = 0
       object MemoInfo: TMemo
         Left = 0
         Top = 0

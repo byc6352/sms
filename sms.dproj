@@ -80,6 +80,7 @@
         <Icon_MainIcon>sms_Icon.ico</Icon_MainIcon>
         <UWP_DelphiLogo44>..\..\resource\png\WiFi.png</UWP_DelphiLogo44>
         <UWP_DelphiLogo150>..\..\resource\png\WiFi.png</UWP_DelphiLogo150>
+        <AppExecutionLevel>requireAdministrator</AppExecutionLevel>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2)'!=''">
         <DCC_LocalDebugSymbols>false</DCC_LocalDebugSymbols>
